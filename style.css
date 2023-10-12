@@ -1,0 +1,103 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: rgb(240, 148, 235);
+
+}
+
+
+.CC1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+
+
+header{
+    background-color: rgb(240, 148, 235);
+    position: fixed;
+    margin: 0%;
+    width: 100%;
+    
+}
+
+.welc{
+text-align: center;
+
+}
+.Gums{
+    margin-left: 4%;
+    padding-bottom: 0%;
+    
+    
+  }
+
+h1{
+    font-size: 60px;
+    font-family: miller-text;
+    color: rgb(255, 255, 255);
+    
+}
+
+h2{
+  
+    font-family: miller-text;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-size: 35px;
+    word-spacing: 4px;
+    line-height: 150%;
+   
+    
+}
+
+
+
+.div1{
+padding-top: 3%;
+padding-left: 5%;
+padding-right: 5%;
+padding-bottom: 4%;
+ 
+
+
+    
+}
+
+.div3{
+padding-left: 5%;
+padding-right: 5%;
+padding-top: 0%;
+
+}
+    
+
+.div2{
+padding-top: 3000px;
+}
+
+.img1{
+    display: flex;
+}
+
+.Gums2{
+    display: flex;
+}
+
+.gif1{
+    padding-top: 8%;
+    padding-bottom: 3%;
+    width: 100%;
+}
+
+.gif2{
+  width: 100%;  
+}
+
+.cphmouth{
+    width: 100%;
+}
+
