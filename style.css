@@ -165,17 +165,9 @@ padding-top: 3000px;
 
 /* Add this CSS to make the site responsive for iPhones */
 @media (max-width: 767px) {
-    header {
-      height: auto; /* Remove fixed height for the header */
-    }
-  
-    .CC1 {
-      max-width: 100%; /* Make the logo responsive */
-      height: auto;
-    }
-  
+ 
     #top-gif-container {
-      padding-top: 100px; /* Adjust padding for top content */
+      padding-top: 200px; /* Adjust padding for top content */
     }
   
     .gif2, .cphmouth {
@@ -195,4 +187,6 @@ padding-top: 3000px;
       width: 100px; /* Adjust the width and height of bubbles on smaller screens */
       height: 110px;
     }
+
+    #program{width: 500px;}
   }
