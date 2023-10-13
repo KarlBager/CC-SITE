@@ -158,3 +158,41 @@ padding-top: 3000px;
         opacity: 1;
     }
 }
+
+
+
+
+
+/* Add this CSS to make the site responsive for iPhones */
+@media (max-width: 767px) {
+    header {
+      height: auto; /* Remove fixed height for the header */
+    }
+  
+    .CC1 {
+      max-width: 100%; /* Make the logo responsive */
+      height: auto;
+    }
+  
+    #top-gif-container {
+      padding-top: 100px; /* Adjust padding for top content */
+    }
+  
+    .gif2, .cphmouth {
+      max-width: 100%; /* Make the GIFs responsive */
+      height: auto;
+    }
+  
+    .container {
+      flex-direction: column; /* Stack elements vertically on smaller screens */
+    }
+  
+    .div1 {
+      padding: 3% 5%; /* Adjust padding for text */
+    }
+  
+    .bubble {
+      width: 100px; /* Adjust the width and height of bubbles on smaller screens */
+      height: 110px;
+    }
+  }
